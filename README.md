@@ -24,7 +24,7 @@ Estos pasos son una guía de cómo obtener las credenciales que se requieren al 
 
 2. ## Obtener claves de integración
 
-* Acceder a la siguiente ruta, una vez ingresado se encuentre dentro del Back Office Vendedor: 'Configuración -> Tiendas -> Claves'
+* Acceder a la siguiente ruta, cuando se encuentre dentro del Back Office Vendedor: 'Configuración -> Tiendas -> Claves'
 
      ![Ruta de acceso a claves](Ruta-de-acceso-a-claves.png)
 

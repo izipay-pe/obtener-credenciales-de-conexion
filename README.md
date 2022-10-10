@@ -22,18 +22,18 @@ Estos pasos son una guía de cómo obtener las credenciales que se requieren al 
 
      ![cambiar-contrasenia](cambiar-contraseña.png)
 
-2. ## Obtener claves de integración
+## 2. Obtener claves de integración
 
-* Acceder a la siguiente ruta, una vez ingresado se encuentre dentro del Back Office Vendedor: 'Configuración -> Tiendas -> Claves'
+* Acceder a la siguiente ruta, cuando se encuentre dentro del Back Office Vendedor: 'Configuración -> Tiendas -> Claves'
 
      ![Ruta de acceso a claves](Ruta-de-acceso-a-claves.png)
 
-### Claves
+* Claves
 Usadas para el formulario de pago en Redirección, Iframe y WebView(App)
 
    ![claves](claves.png)
 
-### Claves de Api Rest
+* Claves de Api Rest
 Usadas para el formulario Incrustado, Popin y SDK(App)
 
    ![Claves API REST](Claves-API-REST.png)

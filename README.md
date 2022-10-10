@@ -37,3 +37,4 @@ Usadas para el formulario de pago en Redirección, Iframe y WebView(App)
 Usadas para el formulario Incrustado, Popin y SDK(App)
 
    ![Claves API REST](Claves-API-REST.png)
+ 

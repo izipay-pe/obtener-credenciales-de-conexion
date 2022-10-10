@@ -12,7 +12,7 @@ Estos pasos son una guía de cómo obtener las credenciales que se requieren al 
 
 * Acceder a la plataforma Back Office Vendedor con su identificador y contraseña que se envió a su correo después de afiliarse a Izipay.
 
-     ![Login BO vendedor](Login BO vendedor.png)
+     ![Login BO vendedor](Login-BO-vendedor.png)
 
 * Código de seguridad: El código de seguridad es el número de DNI/RUC/CE con el cual se realizó la afiliación.
 
@@ -20,13 +20,13 @@ Estos pasos son una guía de cómo obtener las credenciales que se requieren al 
 
 * Nueva contraseña: Ingresar una nueva contraseña según las indicaciones estipuladas, cabe resaltar que la contraseña se tiene que actualizar cada 90 días y nunca se pueden repetir.
 
-     ![cambiar-contrasenia](cambiar-contrasenia.png)
+     ![cambiar-contrasenia](cambiar-contraseña.png)
 
 2. ## Obtener claves de integración
 
 * Acceder a la siguiente ruta, una vez ingresado se encuentre dentro del Back Office Vendedor: 'Configuración -> Tiendas -> Claves'
 
-     ![Ruta de acceso a claves](Ruta de acceso a claves.png)
+     ![Ruta de acceso a claves](Ruta-de-acceso-a-claves.png)
 
 ### Claves
 Usadas para el formulario de pago en Redirección, Iframe y WebView(App)
@@ -36,4 +36,4 @@ Usadas para el formulario de pago en Redirección, Iframe y WebView(App)
 ### Claves de Api Rest
 Usadas para el formulario Incrustado, Popin y SDK(App)
 
-   ![Claves API REST](Claves API REST.png)
+   ![Claves API REST](Claves-API-REST.png)
